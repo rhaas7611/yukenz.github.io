@@ -1,0 +1,3 @@
+User-agent: * 
+Allow: /
+Sitemap: https://sudo.web.id/sitemap.xml
