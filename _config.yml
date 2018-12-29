@@ -1,6 +1,6 @@
 # user variables, change this to make custom site.
 
-name: Lemma
+name: SUDO
 desc: Yet another simple theme for Jekyll.
 author:
   name: neizod
@@ -24,8 +24,8 @@ license: MIT License
 
 
 # theme variables, change this to make site looks best.
-baseurl: /lemma-theme
-paginate: 2
+baseurl: 'https://sudo.web.id'
+paginate: 5
 
 
 # system variables, do not change unless you knew what's it does.
