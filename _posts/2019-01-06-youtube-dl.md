@@ -4,6 +4,8 @@ tags: [Linux, Tutorial,CLI,Youtube,Tips and Trick]
 thumbnail : https://image.freepik.com/free-icon/youtube-logo_318-33597.jpg
 ---
 
+![Cara Download Video di Youtube dengan CLI di Linux](https://image.freepik.com/free-icon/youtube-logo_318-33597.jpg  "Cara Download Video di Youtube dengan CLI di Linux")
+
 Halo Teman-teman semuanya. Kali ini admin akan membuat tutorial Cara Download Video di Youtube dengan CLI di Linux.
 
 Buat kalian yang pake leptop kentang kan kalo buka youtube pastinya lemot ya kaya leptop admin hehehe.
